@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/baba.gif</file>
+        <file>resources/images/flag.gif</file>
+        <file>resources/images/FLOWER.gif</file>
+        <file>resources/images/grass.gif</file>
+        <file>resources/images/lava.gif</file>
+        <file>resources/images/metal.gif</file>
+        <file>resources/images/rock.gif</file>
+        <file>resources/images/SKULL.gif</file>
+        <file>resources/images/text_baba.gif</file>
+        <file>resources/images/void.png</file>
+        <file>resources/images/wall.gif</file>
+        <file>resources/images/water.gif</file>
+        <file>resources/images/is.gif</file>
+        <file>resources/images/text_move.gif</file>
+        <file>resources/images/push.gif</file>
+        <file>resources/images/text_rock.gif</file>
+        <file>resources/images/sink.gif</file>
+        <file>resources/images/stop.gif</file>
+        <file>resources/images/text_wall.gif</file>
+        <file>resources/images/win.gif</file>
+        <file>resources/images/you.gif</file>
+        <file>resources/images/text_flag.gif</file>
+        <file>resources.qrc</file>
+        <file>resources/images/Baba_Is_You_logo.png</file>
+    </qresource>
+</RCC>
